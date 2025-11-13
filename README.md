@@ -1,2 +1,3 @@
-# thewhiteh4t
-A Cyber Security blog created with Materialize CSS and Jekyll with Google's Material Design Guidelines in mind.
+# thewhiteh4t kali nek hater 
+sudo istall wifite <hal>
+<kl> ,
